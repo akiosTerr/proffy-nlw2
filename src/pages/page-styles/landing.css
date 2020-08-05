@@ -12,6 +12,7 @@
 
 .logo-container img {
     height: 10rem;
+    width: 100%;
 }
 
 .hero-image {
@@ -19,7 +20,7 @@
 }
 
 .logo-container {
-    text-align: left;
+    text-align: center;
     align-self: center;
     margin-bottom: 3.2rem; 
 }
